@@ -1,10 +1,4 @@
-//
 //  appledb.m
-//  libgrabkernel2
-//
-//  Created by Dhinak G on 3/4/24.
-//
-
 #import <Foundation/Foundation.h>
 #import <sys/utsname.h>
 #if !TARGET_OS_OSX
